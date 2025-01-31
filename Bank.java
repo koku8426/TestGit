@@ -1,1 +1,3 @@
-public class Bank{String name;}
+public class Bank{
+ String name;
+}
